@@ -28,11 +28,12 @@
 I'm a **Senior Frontend Engineer** and **Module Lead** with **9.6+ years** of experience shipping production UIs for product and enterprise teams.
 
 I specialize in:
-- Design-system architecture & reusable component APIs
-- Figma-to-production UI pipelines
-- Core Web Vitals / Lighthouse performance
-- Accessibility (WCAG / ARIA) and responsive architecture
-- Mentoring engineers and AI-assisted delivery workflows
+- Building pixel-accurate UI with **HTML, CSS/SCSS, Tailwind**, and modern React component libraries
+- Converting **Figma designs → production HTML/CSS/React** with design tokens and consistent spacing/type
+- Creating **reusable UI components** (buttons, forms, cards, layout primitives) for multi-page products
+- Crafting **responsive, mobile-first layouts** that work cleanly across breakpoints and devices
+- Improving **UI performance** (Core Web Vitals / Lighthouse) and **accessibility** (WCAG / ARIA, keyboard flows)
+- Mentoring frontend engineers and using **AI-assisted workflows** to ship polished UI faster
 
 Currently focused on **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Material UI**, and **Shadcn UI** — with delivery experience across **Vue.js** and **Angular**.
 
