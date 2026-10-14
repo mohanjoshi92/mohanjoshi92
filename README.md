@@ -11,9 +11,9 @@
 
   # Hi, I'm Mohan Joshi 👋
 
-  ### Senior Frontend Engineer · Module Lead – UI Engineering
+  ### Senior Frontend / UI Developer · Module Lead – UI Engineering
 
-  Building scalable, accessible, and performance-focused web products with React, Next.js & modern UI systems.
+  I build clean, responsive user interfaces with **HTML, CSS/SCSS & Tailwind** — and reusable **React UI components**.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-joshi-592b64109)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohan.joshi92@gmail.com)
@@ -25,67 +25,68 @@
 
 ## About Me
 
-I'm a **Senior Frontend Engineer** and **Module Lead** with **9.6+ years** of experience shipping production UIs for product and enterprise teams.
+I'm a **Senior Frontend / UI Developer** with **9.6+ years** of hands-on experience creating production-ready interfaces for websites and web products.
+
+My core work is **UI frontend** — markup, styling, layouts, and components — not backend development.
 
 I specialize in:
-- Building pixel-accurate UI with **HTML, CSS/SCSS, Tailwind**, and modern React component libraries
-- Converting **Figma designs → production HTML/CSS/React** with design tokens and consistent spacing/type
-- Creating **reusable UI components** (buttons, forms, cards, layout primitives) for multi-page products
-- Crafting **responsive, mobile-first layouts** that work cleanly across breakpoints and devices
-- Improving **UI performance** (Core Web Vitals / Lighthouse) and **accessibility** (WCAG / ARIA, keyboard flows)
-- Mentoring frontend engineers and using **AI-assisted workflows** to ship polished UI faster
+- Creating pixel-accurate pages with **HTML5, CSS3, SCSS/SASS, and Tailwind CSS**
+- Converting **Figma / design files → HTML, CSS/SCSS & Tailwind** (and React UI where needed)
+- Building **reusable UI components** in React (buttons, forms, cards, sections, layout blocks)
+- Crafting **responsive, mobile-first layouts** across breakpoints and devices
+- Keeping UI consistent with design tokens, spacing systems, and reusable patterns
+- Improving **UI accessibility** (semantic HTML, ARIA, keyboard-friendly controls) and page performance
 
-Currently focused on **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Material UI**, and **Shadcn UI** — with delivery experience across **Vue.js** and **Angular**.
+**Primary stack:** HTML · CSS · SCSS · Tailwind CSS · Bootstrap · React (UI components)  
+Also used when projects required it: Material UI, Shadcn UI, Next.js, Vue.js, Angular *(UI layer only)*
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks**  
-`JavaScript (ES6+)` · `TypeScript` · `React.js` · `Next.js` · `Vue.js` · `Angular` · `HTML5` · `CSS3` · `SCSS/SASS`
+**Core UI**  
+`HTML5` · `CSS3` · `SCSS / SASS` · `Tailwind CSS` · `Bootstrap` · `Responsive Layouts` · `Flexbox / Grid`
 
-**UI Systems**  
-`Tailwind CSS` · `Material UI` · `Shadcn UI` · `Bootstrap` · `Ant Design / NG Zorro` · `Design Tokens` · `Atomic Design`
+**UI Components**  
+`React.js` · `Reusable Components` · `Material UI` · `Shadcn UI` · `Design Tokens` · `Atomic Design`
 
-**Quality & Delivery**  
-`Accessibility (WCAG/ARIA)` · `Core Web Vitals` · `Jest / RTL` · `Git / GitHub` · `Agile / Scrum` · `Code Reviews`
-
-**AI-Assisted Engineering**  
-`Cursor` · `GitHub Copilot` · `ChatGPT` · `Claude` · `Gemini`
+**UI Quality**  
+`Figma to Code` · `Cross-Browser UI` · `Accessibility (WCAG / ARIA)` · `Core Web Vitals` · `Git / GitHub` · `Agile / Scrum`
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | What I built |
-|--------|--------|--------------|
-| **[Hall Constructors](https://dev.hallticketing.com)** | Vue.js, SCSS, Bootstrap 5 | Responsive truck-ticketing operations dashboard — configuration, ticket creation, staff management |
-| **[REFR LLC](https://app.refrnow.com)** | React, Tailwind, Bootstrap | Agent/ambassador referral workflows for a real-estate platform |
-| **N Roll** | Next.js, React, Tailwind, Shadcn UI | High-performance product UI with reusable components and design conventions |
-| **Anywork** | Angular 17, Tailwind, NG Zorro | JSON-driven dynamic UI renderer — modular components from configuration |
-| **Podrocket Academy** | Next.js, React, Tailwind | Modular learning-experience UI with optimized rendering |
-| **Naffco** | React, SCSS, Material UI | Modern responsive interface with reusable React/MUI architecture |
+| Project | UI Stack | What I built (UI) |
+|--------|----------|-------------------|
+| **[Hall Constructors](https://dev.hallticketing.com)** | HTML structure, SCSS, Bootstrap 5, Vue UI | Responsive dashboard layouts, reusable UI sections for ticketing & staff screens |
+| **[REFR LLC](https://app.refrnow.com)** | React UI, Tailwind, Bootstrap | Referral journey screens with consistent components and responsive layouts |
+| **N Roll** | React UI, Tailwind, Shadcn | Product UI with reusable components and clean Tailwind design patterns |
+| **Anywork** | Angular UI, Tailwind, NG Zorro | Modular UI screens from design rules — layout & component styling focus |
+| **Podrocket Academy** | React / Next UI, Tailwind | Learning-experience pages with modular sections and responsive Tailwind system |
+| **Naffco** | React UI, SCSS, Material UI | Modern responsive interface with reusable React/MUI UI components |
 
 ---
 
 ## Experience Highlights
 
 **Module Lead – Frontend / UI Engineering** · Galaxy Weblinks *(Sep 2022 – Sep 2026)*  
-- Owned multi-client product UIs end-to-end on React / Next.js  
-- Built shared component libraries — ~35% less duplicate UI work  
-- Improved Core Web Vitals / Lighthouse (targeting 90+ on key pages)  
-- Mentored 3–5 frontend engineers via reviews and pairing  
+- Owned UI delivery for multi-client product screens (layouts, styling, components)  
+- Built reusable React UI + Tailwind/MUI/Shadcn components — less duplicate UI work  
+- Converted Figma designs into pixel-accurate HTML/CSS/React interfaces  
+- Mentored junior/mid UI developers on reusable patterns and responsive standards  
 
 **Software Engineer – Frontend** · RNF Technologies *(May 2021 – Aug 2022)*  
-- Delivered production React modules with reusable component boundaries  
-- Standardized Tailwind / Bootstrap styling — ~25% faster UI delivery  
+- Delivered production UI modules with reusable React components  
+- Standardized styling with Tailwind CSS and Bootstrap for faster UI delivery  
 
 **Senior Frontend Developer** · APPCODE TECHNOLOGIES *(Jan 2020 – May 2021)*  
-- Led frontend delivery and team standards for client web products  
-- Built React / SCSS systems with atomic design and shared tokens  
+- Led UI frontend delivery and coding standards for client web products  
+- Built reusable React + SCSS component systems with shared design tokens  
 
 **Frontend / Web Developer** · PCL Technologies *(Jul 2016 – Dec 2019)*  
-- Shipped 15+ production websites / CMS projects (HTML, CSS, Bootstrap, WordPress)
+- Built **15+** production websites using HTML5, CSS3, Bootstrap, and WordPress themes  
+- Converted wireframes into clean, conversion-focused responsive pages and landing UIs  
 
 ---
 
@@ -110,7 +111,7 @@ Currently focused on **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**
 
 ## Let's Connect
 
-I'm open to **frontend / UI engineering** roles and client conversations.
+Open to **UI / Frontend** roles and client work focused on HTML, CSS/SCSS, Tailwind, and React UI components.
 
 - **Email:** [mohan.joshi92@gmail.com](mailto:mohan.joshi92@gmail.com)  
 - **Phone:** +91 98731 10225  
