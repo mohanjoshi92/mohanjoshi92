@@ -15,7 +15,7 @@
 
   I build clean, responsive user interfaces with **HTML, CSS/SCSS & Tailwind** — and reusable **React UI components**.
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohan-j-592b64109)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-j-592b64109)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohan.joshi92@gmail.com)
   [![Location](https://img.shields.io/badge/Faridabad%2C%20India-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/mohanjoshi92)
 
